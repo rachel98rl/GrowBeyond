@@ -1,4 +1,3 @@
-%Filename: ICS201- Final Evaluation
 %Author: Rachel Liu
 %Date: January 9th, 2014
 %Description: A learning program intended for individuals from ages 4-6. It focuses on the subjects Math and English allowing students to gain knowledge in those areas all while having a great time
